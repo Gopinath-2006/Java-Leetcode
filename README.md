@@ -18,6 +18,7 @@ Daily solving leetcode problems are updated automatically
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -43,4 +44,16 @@ Daily solving leetcode problems are updated automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 <!---LeetCode Topics End-->
