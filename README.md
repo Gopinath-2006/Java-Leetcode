@@ -8,6 +8,7 @@ Daily solving leetcode problems are updated automatically
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
@@ -36,6 +37,7 @@ Daily solving leetcode problems are updated automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0055-jump-game/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Daily solving leetcode problems are updated automatically
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
