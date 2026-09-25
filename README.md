@@ -19,6 +19,7 @@ Daily solving leetcode problems are updated automatically
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
@@ -49,6 +50,7 @@ Daily solving leetcode problems are updated automatically
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -58,5 +60,18 @@ Daily solving leetcode problems are updated automatically
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
