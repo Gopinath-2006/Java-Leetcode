@@ -10,10 +10,12 @@ Daily solving leetcode problems are updated automatically
 | [0054-spiral-matrix](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gopinath-2006/Java-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
